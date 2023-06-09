@@ -11,4 +11,4 @@ Playlist Belajar Membuat Aplikasi Web Dengan Streamlit [Python]: https://www.you
 
 Link Demo Project:
 
-https://jumadi-cloud-deploy-multipage-home-o6btpj.streamlit.app/
+https://jumadi-cloud-deploy-multipage-home-4c167x.streamlit.app/
